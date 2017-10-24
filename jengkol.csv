@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 025 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-sr-025,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Tas Ransel / Backpack Casual Pria + Rain Cover - ST 042 Murah,tas-ransel-backpack-casual-pria-+-rain-cover-st-042,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 025 Murah,tas-ransel-b
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,8 +47,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 025 Murah,tas-ransel-b
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 025 dengan bahan CANVAS ini dijamin awet.<br/>Kode : SR 025<br/>Warna : HIJAU<br/>Bahan : CANVAS<br/>Ukuran : 27X37X12<br/>Berat : 0.6 kg<br>
+         <p>Tas Ransel / Backpack Casual Pria + Rain Cover - ST 042 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan CANVAS.<br/>Kode : ST 042<br/>Warna : CREAM<br/>Bahan : CANVAS<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = 30 X 44 X 15, + RAIN COVER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -61,8 +71,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 025 Murah,tas-ransel-b
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan CANVAS, Ukuran 27X37X12, Warna HIJAU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/472-sr-025.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 025,Rp 136.400,SR 025,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - ST 042 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-st-042,"
+     </div><!--/category-tab-->",2017-10-16,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan CANVAS, Ukuran AS, Warna CREAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/409-st-042.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/st-042-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/st-042-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/st-042-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/st-042-d.jpg,/,Tas Ransel / Backpack Casual Pria + Rain Cover - ST 042,Rp 137.900,Rp 161.900,Rp 24.000,ST 042,Baru
+Jual Tas Ransel / Backpack Casual Pria + Rain Cover - ST 045 Murah,tas-ransel-backpack-casual-pria-+-rain-cover-st-045,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +97,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - ST 042 Murah,tas-ransel-b
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,8 +120,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - ST 042 Murah,tas-ransel-b
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - ST 042 dengan bahan CANVAS ini dijamin awet.<br/>Kode : ST 042<br/>Warna : CREAM<br/>Bahan : CANVAS<br/>Ukuran : 30X44X15<br/>Berat : 0.6 kg<br>
+         <p>Tas Ransel / Backpack Casual Pria + Rain Cover - ST 045 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DOLBY.<br/>Kode : ST 045<br/>Warna : HITAM<br/>Bahan : DOLBY<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = 30 X 44 X 15, + LAPTOP, + RAIN COVER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -124,8 +144,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - ST 042 Murah,tas-ransel-b
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan CANVAS, Ukuran 30X44X15, Warna CREAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/473-st-042.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - ST 042,Rp 137.900,ST 042,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 024 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-sr-024,"
+     </div><!--/category-tab-->",2017-10-16,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan DOLBY, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/410-st-045.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/st-045-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/st-045-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/st-045-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/st-045-d.jpg,/,Tas Ransel / Backpack Casual Pria + Rain Cover - ST 045,Rp 132.400,Rp 154.900,Rp 22.500,ST 045,Baru
+Jual Tas Ransel / Backpack Casual Pria - MB 016 Murah,tas-ransel-backpack-casual-pria-mb-016,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +170,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 024 Murah,tas-ransel-b
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,8 +193,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 024 Murah,tas-ransel-b
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 024 dengan bahan DINNIR ini dijamin awet.<br/>Kode : SR 024<br/>Warna : HITAM<br/>Bahan : DINNIR<br/>Ukuran : 30X40X12<br/>Berat : 0.6 kg<br>
+         <p>Tas Ransel / Backpack Casual Pria - MB 016 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan SINTETIS.<br/>Kode : MB 016<br/>Warna : ABU ABU<br/>Bahan : SINTETIS<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = 330 X 44 X 13<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -187,8 +217,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 024 Murah,tas-ransel-b
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan DINNIR, Ukuran 30X40X12, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/482-sr-024.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - SR 024,Rp 136.400,SR 024,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - YD 040 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-yd-040,"
+     </div><!--/category-tab-->",2017-10-16,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan SINTETIS, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/414-mb-016.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-016-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-016-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-016-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-016-d.jpg,/,Tas Ransel / Backpack Casual Pria - MB 016,Rp 160.400,Rp 187.900,Rp 27.500,MB 016,Baru
+Jual Tas Ransel / Backpack Casual Pria - YD 040 Murah,tas-ransel-backpack-casual-pria-yd-040,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -213,6 +243,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - YD 040 Murah,tas-ransel-b
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -235,8 +266,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - YD 040 Murah,tas-ransel-b
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - YD 040 dengan bahan SYNTHETIC ini dijamin awet.<br/>Kode : YD 040<br/>Warna : COKLAT<br/>Bahan : SYNTHETIC<br/>Ukuran : 30X44X16<br/>Berat : 0.6 kg<br>
+         <p>Tas Ransel / Backpack Casual Pria - YD 040 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan SINTETIS.<br/>Kode : YD 040<br/>Warna : COKLAT<br/>Bahan : SINTETIS<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = 30 X 44 X 16<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -250,8 +290,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - YD 040 Murah,tas-ransel-b
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan SYNTHETIC, Ukuran 30X44X16, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/487-yd-040.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - YD 040,Rp 138.400,YD 040,Baru
-Jual Tas Ransel / Backpack Casual Vintage Unisex Pria Wanita - ZN 012 Murah,tas-ransel-backpack-casual-vintage-unisex-pria-wanita-zn-012,"
+     </div><!--/category-tab-->",2017-10-16,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan SINTETIS, Ukuran AS, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/415-yd-040.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/yd-040-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/yd-040-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/yd-040-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/yd-040-d.jpg,/,Tas Ransel / Backpack Casual Pria - YD 040,Rp 138.400,Rp 161.900,Rp 23.500,YD 040,Baru
+Jual Tas Ransel / Backpack Casual Pria - MB 015 Murah,tas-ransel-backpack-casual-pria-mb-015,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -276,6 +316,7 @@ Jual Tas Ransel / Backpack Casual Vintage Unisex Pria Wanita - ZN 012 Murah,tas-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -298,8 +339,17 @@ Jual Tas Ransel / Backpack Casual Vintage Unisex Pria Wanita - ZN 012 Murah,tas-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Vintage Unisex Pria Wanita - ZN 012 dengan bahan CORDURA ini dijamin awet.<br/>Kode : ZN 012<br/>Warna : ABU ABU<br/>Bahan : CORDURA<br/>Ukuran : 22X36X11<br/>Berat : 0.55 kg<br>
+         <p>Tas Ransel / Backpack Casual Pria - MB 015 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan CANVAS.<br/>Kode : MB 015<br/>Warna : ABU MISTY<br/>Bahan : CANVAS<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = 28 X 43 X 16<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -313,8 +363,8 @@ Jual Tas Ransel / Backpack Casual Vintage Unisex Pria Wanita - ZN 012 Murah,tas-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan CORDURA, Ukuran 22X36X11, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/496-zn-012.jpg,Tas Ransel / Backpack Casual Vintage Unisex Pria Wanita - ZN 012,Rp 102.400,ZN 012,Baru
-Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 007 Murah,tas-ransel-backpack-casual-vintage-pria-rmb-007,"
+     </div><!--/category-tab-->",2017-10-16,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan CANVAS, Ukuran AS, Warna ABU MISTY",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/425-mb-015.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-015-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-015-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-015-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-015-d.jpg,/,Tas Ransel / Backpack Casual Pria - MB 015,Rp 150.400,Rp 175.900,Rp 25.500,MB 015,Baru
+Jual Tas Ransel / Backpack Casual Pria - SR 024 Murah,tas-ransel-backpack-casual-pria-sr-024,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -339,6 +389,7 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 007 Murah,tas-ransel-backpa
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -361,8 +412,17 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 007 Murah,tas-ransel-backpa
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Vintage Pria - RMB 007 dengan bahan DINIER ini dijamin awet.<br/>Kode : RMB 007<br/>Warna : ABU ABU<br/>Bahan : DINIER<br/>Ukuran : 34X15X46CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Ransel / Backpack Casual Pria - SR 024 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : SR 024<br/>Warna : HITAM<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = 30 X 40 X12<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -376,8 +436,8 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 007 Murah,tas-ransel-backpa
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 34X15X46CM, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/511-rmb-007.jpg,Tas Ransel / Backpack Casual Vintage Pria - RMB 007,Rp 128.900,RMB 007,Baru
-Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 014 Murah,tas-ransel-backpack-casual-vintage-pria-rmb-014,"
+     </div><!--/category-tab-->",2017-10-16,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/426-sr-024.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/sr-024-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/sr-024-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/sr-024-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/sr-024-d.jpg,/,Tas Ransel / Backpack Casual Pria - SR 024,Rp 136.400,Rp 159.900,Rp 23.500,SR 024,Baru
+Jual Tas Ransel / Backpack Casual Pria - MB 014 Murah,tas-ransel-backpack-casual-pria-mb-014,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -402,6 +462,7 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 014 Murah,tas-ransel-backpa
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -424,8 +485,17 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 014 Murah,tas-ransel-backpa
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Vintage Pria - RMB 014 dengan bahan DOLBY ini dijamin awet.<br/>Kode : RMB 014<br/>Warna : ABU ABU<br/>Bahan : DOLBY<br/>Ukuran : 32X15X45CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Ransel / Backpack Casual Pria - MB 014 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan CANVAS.<br/>Kode : MB 014<br/>Warna : COKLAT<br/>Bahan : CANVAS<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = 30 X 44 X 16<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -439,8 +509,8 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 014 Murah,tas-ransel-backpa
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran 32X15X45CM, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/512-rmb-014.jpg,Tas Ransel / Backpack Casual Vintage Pria - RMB 014,Rp 145.900,RMB 014,Baru
-Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 015 Murah,tas-ransel-backpack-casual-vintage-pria-rmb-015,"
+     </div><!--/category-tab-->",2017-10-16,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan CANVAS, Ukuran AS, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/427-mb-014.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-014-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-014-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-014-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-014-d.jpg,/,Tas Ransel / Backpack Casual Pria - MB 014,Rp 145.400,Rp 170.900,Rp 25.500,MB 014,Baru
+Jual Tas Ransel / Backpack Casual Pria - MB 017 Murah,tas-ransel-backpack-casual-pria-mb-017,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -465,6 +535,7 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 015 Murah,tas-ransel-backpa
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -487,8 +558,17 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 015 Murah,tas-ransel-backpa
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Vintage Pria - RMB 015 dengan bahan DOLBY ini dijamin awet.<br/>Kode : RMB 015<br/>Warna : ABU TUA<br/>Bahan : DOLBY<br/>Ukuran : 30X15X48CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Ransel / Backpack Casual Pria - MB 017 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DOLBY.<br/>Kode : MB 017<br/>Warna : BIRU<br/>Bahan : DOLBY<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = 30 X 44 X 13<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -502,8 +582,8 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 015 Murah,tas-ransel-backpa
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran 30X15X48CM, Warna ABU TUA",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/513-rmb-015.jpg,Tas Ransel / Backpack Casual Vintage Pria - RMB 015,Rp 154.400,RMB 015,Baru
-Jual Tas Ransel / Backpack Casual Vintage Pria - RGP 004 Murah,tas-ransel-backpack-casual-vintage-pria-rgp-004,"
+     </div><!--/category-tab-->",2017-10-16,html,tas-ransel-unisex,catenzo,tas-ransel-unisex,catenzo,"Tas Ransel Unisex Bahan DOLBY, Ukuran AS, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/428-mb-017.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-017-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-017-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-017-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/mb-017-d.jpg,/,Tas Ransel / Backpack Casual Pria - MB 017,Rp 142.900,Rp 167.900,Rp 25.000,MB 017,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMB 012 Murah,tas-backpack-ransel-kasual-pria-rmb-012,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -528,6 +608,7 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RGP 004 Murah,tas-ransel-backpa
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -550,8 +631,17 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RGP 004 Murah,tas-ransel-backpa
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Vintage Pria - RGP 004 dengan bahan DINIER ini dijamin awet.<br/>Kode : RGP 004<br/>Warna : HITAM<br/>Bahan : DINIER<br/>Ukuran : 30X13X45CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMB 012 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DOLBY.<br/>Kode : RMB 012<br/>Warna : COKLAT<br/>Bahan : DOLBY<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 15 X 45<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -565,8 +655,8 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RGP 004 Murah,tas-ransel-backpa
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 30X13X45CM, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/514-rgp-004.jpg,Tas Ransel / Backpack Casual Vintage Pria - RGP 004,Rp 110.400,RGP 004,Baru
-Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 012 Murah,tas-ransel-backpack-casual-vintage-pria-rmb-012,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran AS, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/427-rmb-012.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-012-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-012-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-012-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-012-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMB 012,Rp 149.900,Rp 175.900,Rp 26.000,RMB 012,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMB 015 Murah,tas-backpack-ransel-kasual-pria-rmb-015,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -591,6 +681,7 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 012 Murah,tas-ransel-backpa
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -613,8 +704,17 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 012 Murah,tas-ransel-backpa
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Vintage Pria - RMB 012 dengan bahan DOLBY ini dijamin awet.<br/>Kode : RMB 012<br/>Warna : ABU TUA<br/>Bahan : DOLBY<br/>Ukuran : 30X15X45CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMB 015 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DOLBY.<br/>Kode : RMB 015<br/>Warna : COKLAT<br/>Bahan : DOLBY<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 15 X 48<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -628,8 +728,8 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RMB 012 Murah,tas-ransel-backpa
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran 30X15X45CM, Warna ABU TUA",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/515-rmb-012.jpg,Tas Ransel / Backpack Casual Vintage Pria - RMB 012,Rp 149.900,RMB 012,Baru
-Jual Tas Ransel / Backpack Casual Vintage Pria - RDN 002 Murah,tas-ransel-backpack-casual-vintage-pria-rdn-002,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran AS, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/428-rmb-015.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-015-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-015-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-015-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-015-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMB 015,Rp 154.400,Rp 180.900,Rp 26.500,RMB 015,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RGP 004 Murah,tas-backpack-ransel-kasual-pria-rgp-004,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -654,6 +754,7 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RDN 002 Murah,tas-ransel-backpa
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -676,8 +777,17 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RDN 002 Murah,tas-ransel-backpa
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Vintage Pria - RDN 002 dengan bahan DINIER ini dijamin awet.<br/>Kode : RDN 002<br/>Warna : COKLAT<br/>Bahan : DINIER<br/>Ukuran : 30X14X40CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RGP 004 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RGP 004<br/>Warna : HITAM<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 13 X 45<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -691,8 +801,8 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RDN 002 Murah,tas-ransel-backpa
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 30X14X40CM, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/516-rdn-002.jpg,Tas Ransel / Backpack Casual Vintage Pria - RDN 002,Rp 95.900,RDN 002,Baru
-Jual Tas Ransel / Backpack Casual Vintage Pria - RDN 015 Murah,tas-ransel-backpack-casual-vintage-pria-rdn-015,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/429-rgp-004.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rgp-004-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rgp-004-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rgp-004-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rgp-004-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RGP 004,Rp 110.400,Rp 129.900,Rp 19.500,RGP 004,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMU 002 Murah,tas-backpack-ransel-kasual-pria-rmu-002,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -717,6 +827,7 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RDN 015 Murah,tas-ransel-backpa
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -739,8 +850,17 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RDN 015 Murah,tas-ransel-backpa
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Vintage Pria - RDN 015 dengan bahan DINIER ini dijamin awet.<br/>Kode : RDN 015<br/>Warna : COKLAT<br/>Bahan : DINIER<br/>Ukuran : 30X14X40CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMU 002 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RMU 002<br/>Warna : HITAM<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 26 X 16 X 45<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -754,8 +874,8 @@ Jual Tas Ransel / Backpack Casual Vintage Pria - RDN 015 Murah,tas-ransel-backpa
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 30X14X40CM, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/517-rdn-015.jpg,Tas Ransel / Backpack Casual Vintage Pria - RDN 015,Rp 102.900,RDN 015,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 018 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rdn-018,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/430-rmu-002.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmu-002-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmu-002-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmu-002-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmu-002-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMU 002,Rp 113.900,Rp 133.900,Rp 20.000,RMU 002,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RSY 087 Murah,tas-backpack-ransel-kasual-pria-rsy-087,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -780,6 +900,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 018 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -802,8 +923,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 018 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 018 dengan bahan DINIER ini dijamin awet.<br/>Kode : RDN 018<br/>Warna : BIRU KOMBINASI<br/>Bahan : DINIER<br/>Ukuran : 30X14X40CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RSY 087 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan CORDURA.<br/>Kode : RSY 087<br/>Warna : HITAM<br/>Bahan : CORDURA<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 20 X 40<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -817,8 +947,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 018 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 30X14X40CM, Warna BIRU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/518-rdn-018.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 018,Rp 94.400,RDN 018,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 114 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rgp-114,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CORDURA, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/431-rsy-087.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsy-087-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsy-087-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsy-087-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsy-087-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RSY 087,Rp 113.900,Rp 133.900,Rp 20.000,RSY 087,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMB 018 Murah,tas-backpack-ransel-kasual-pria-rmb-018,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -843,6 +973,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 114 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -865,8 +996,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 114 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 114 dengan bahan CORDURA ini dijamin awet.<br/>Kode : RGP 114<br/>Warna : MERAH KOMBINASI<br/>Bahan : CORDURA<br/>Ukuran : 30X15X45CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMB 018 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan CANVAS.<br/>Kode : RMB 018<br/>Warna : COKLAT<br/>Bahan : CANVAS<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 14 X 40<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -880,8 +1020,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 114 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CORDURA, Ukuran 30X15X45CM, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/519-rgp-114.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 114,Rp 109.400,RGP 114,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 003 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rmn-003,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CANVAS, Ukuran AS, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/432-rmb-018.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-018-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-018-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-018-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-018-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMB 018,Rp 135.400,Rp 158.900,Rp 23.500,RMB 018,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMB 007 Murah,tas-backpack-ransel-kasual-pria-rmb-007,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -906,6 +1046,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 003 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -928,8 +1069,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 003 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 003 dengan bahan CANVAS ini dijamin awet.<br/>Kode : RMN 003<br/>Warna : HITAM<br/>Bahan : CANVAS<br/>Ukuran : 37X14X45CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMB 007 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RMB 007<br/>Warna : ABU ABU<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 34 X 15 X 46<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -943,8 +1093,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 003 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CANVAS, Ukuran 37X14X45CM, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/520-rmn-003.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 003,Rp 123.900,RMN 003,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 031 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rdn-031,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/433-rmb-007.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-007-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-007-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-007-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-007-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMB 007,Rp 128.900,Rp 150.900,Rp 22.000,RMB 007,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMB 014 Murah,tas-backpack-ransel-kasual-pria-rmb-014,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -969,6 +1119,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 031 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -991,8 +1142,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 031 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 031 dengan bahan CORDURA ini dijamin awet.<br/>Kode : RDN 031<br/>Warna : BIRU NAVY<br/>Bahan : CORDURA<br/>Ukuran : 28X13X40CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMB 014 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DOLBY.<br/>Kode : RMB 014<br/>Warna : ABU ABU<br/>Bahan : DOLBY<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 32 X 15 X 45<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1006,8 +1166,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 031 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CORDURA, Ukuran 28X13X40CM, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/521-rdn-031.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 031,Rp 99.400,RDN 031,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 025 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rzr-025,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/434-rmb-014.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-014-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-014-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-014-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-014-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMB 014,Rp 145.900,Rp 170.900,Rp 25.000,RMB 014,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RYD 107 Murah,tas-backpack-ransel-kasual-pria-ryd-107,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1032,6 +1192,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 025 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1054,8 +1215,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 025 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 025 dengan bahan DINIER ini dijamin awet.<br/>Kode : RZR 025<br/>Warna : ABU KOMBINASI<br/>Bahan : DINIER<br/>Ukuran : 33X15X44CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RYD 107 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DOLBY.<br/>Kode : RYD 107<br/>Warna : ABU ABU<br/>Bahan : DOLBY<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 18 X 46, + RAIN COVER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1069,8 +1239,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 025 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 33X15X44CM, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/522-rzr-025.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 025,Rp 110.400,RZR 025,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 023 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rzr-023,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/435-ryd-107.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ryd-107-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ryd-107-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ryd-107-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ryd-107-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RYD 107,Rp 134.400,Rp 157.900,Rp 23.500,RYD 107,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RYD 106 Murah,tas-backpack-ransel-kasual-pria-ryd-106,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1095,6 +1265,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 023 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1117,8 +1288,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 023 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 023 dengan bahan CORDURA ini dijamin awet.<br/>Kode : RZR 023<br/>Warna : ORANGE<br/>Bahan : CORDURA<br/>Ukuran : 33X15X44CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RYD 106 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DOLBY.<br/>Kode : RYD 106<br/>Warna : ABU ABU<br/>Bahan : DOLBY<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 18 X 46, + RAIN COVER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1132,8 +1312,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 023 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CORDURA, Ukuran 33X15X44CM, Warna ORANGE",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/523-rzr-023.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 023,Rp 113.900,RZR 023,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 026 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rzr-026,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/436-ryd-106.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ryd-106-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ryd-106-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ryd-106-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ryd-106-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RYD 106,Rp 134.400,Rp 157.900,Rp 23.500,RYD 106,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RDN 002 Murah,tas-backpack-ransel-kasual-pria-rdn-002,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1158,6 +1338,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 026 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1180,8 +1361,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 026 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 026 dengan bahan DINIER ini dijamin awet.<br/>Kode : RZR 026<br/>Warna : COKLAT<br/>Bahan : DINIER<br/>Ukuran : 33X15X44CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RDN 002 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RDN 002<br/>Warna : COKLAT<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 14 X 40<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1195,8 +1385,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 026 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 33X15X44CM, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/524-rzr-026.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RZR 026,Rp 113.900,RZR 026,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 002 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rmn-002,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/437-rdn-002.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-002-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-002-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-002-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-002-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RDN 002,Rp 95.900,Rp 112.900,Rp 17.000,RDN 002,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RDN 015 Murah,tas-backpack-ransel-kasual-pria-rdn-015,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1221,6 +1411,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 002 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1243,8 +1434,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 002 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 002 dengan bahan CORDURA ini dijamin awet.<br/>Kode : RMN 002<br/>Warna : MERAH KOMBINASI<br/>Bahan : CORDURA<br/>Ukuran : 32X14X46CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RDN 015 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RDN 015<br/>Warna : COKLAT<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 14 X 40<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1258,8 +1458,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 002 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CORDURA, Ukuran 32X14X46CM, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/525-rmn-002.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RMN 002,Rp 109.400,RMN 002,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 021 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rvn-021,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/438-rdn-015.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-015-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-015-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-015-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-015-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RDN 015,Rp 102.900,Rp 120.900,Rp 18.000,RDN 015,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMB 016 Murah,tas-backpack-ransel-kasual-pria-rmb-016,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1284,6 +1484,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 021 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1306,8 +1507,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 021 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 021 dengan bahan DOLBY ini dijamin awet.<br/>Kode : RVN 021<br/>Warna : COKLAT<br/>Bahan : DOLBY<br/>Ukuran : 30X25X50CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMB 016 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan SINTETIS.<br/>Kode : RMB 016<br/>Warna : HITAM<br/>Bahan : SINTETIS<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 14 X 43<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1321,8 +1531,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 021 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran 30X25X50CM, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/526-rvn-021.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 021,Rp 122.400,RVN 021,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 110 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rgp-110,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan SINTETIS, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/439-rmb-016.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-016-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-016-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-016-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmb-016-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMB 016,Rp 149.900,Rp 175.900,Rp 26.000,RMB 016,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RGP 110 Murah,tas-backpack-ransel-kasual-pria-rgp-110,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1347,6 +1557,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 110 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1369,8 +1580,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 110 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 110 dengan bahan DOLBY ini dijamin awet.<br/>Kode : RGP 110<br/>Warna : HITAM<br/>Bahan : DOLBY<br/>Ukuran : 30X16X45CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RGP 110 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DOLBY.<br/>Kode : RGP 110<br/>Warna : HITAM<br/>Bahan : DOLBY<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 16 X 45<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1384,8 +1604,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 110 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran 30X16X45CM, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/527-rgp-110.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RGP 110,Rp 120.900,RGP 110,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 010 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rmb-010,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/440-rgp-110.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rgp-110-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rgp-110-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rgp-110-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rgp-110-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RGP 110,Rp 120.900,Rp 141.900,Rp 21.000,RGP 110,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RVN 603 Murah,tas-backpack-ransel-kasual-pria-rvn-603,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1410,6 +1630,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 010 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1432,8 +1653,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 010 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 010 dengan bahan CANVAS ini dijamin awet.<br/>Kode : RMB 010<br/>Warna : BIRU<br/>Bahan : CANVAS<br/>Ukuran : 32X17X48CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RVN 603 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RVN 603<br/>Warna : HITAM<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 16 X 42<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1447,8 +1677,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 010 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CANVAS, Ukuran 32X17X48CM, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/528-rmb-010.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 010,Rp 135.400,RMB 010,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 033 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rdn-033,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/441-rvn-603.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rvn-603-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rvn-603-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rvn-603-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rvn-603-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RVN 603,Rp 115.900,Rp 135.900,Rp 20.000,RVN 603,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RST 016 Murah,tas-backpack-ransel-kasual-pria-rst-016,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1473,6 +1703,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 033 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1495,8 +1726,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 033 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 033 dengan bahan CORDURA ini dijamin awet.<br/>Kode : RDN 033<br/>Warna : HITAM<br/>Bahan : CORDURA<br/>Ukuran : 27X15X40CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RST 016 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan CANVAS.<br/>Kode : RST 016<br/>Warna : BIRU NAVY<br/>Bahan : CANVAS<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 15 X 45, + RAIN COVER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1510,8 +1750,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 033 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CORDURA, Ukuran 27X15X40CM, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/529-rdn-033.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RDN 033,Rp 95.900,RDN 033,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 013 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rmb-013,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CANVAS, Ukuran AS, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/442-rst-016.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rst-016-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rst-016-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rst-016-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rst-016-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RST 016,Rp 135.400,Rp 158.900,Rp 23.500,RST 016,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RDN 034 Murah,tas-backpack-ransel-kasual-pria-rdn-034,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1536,6 +1776,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 013 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1558,8 +1799,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 013 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 013 dengan bahan DOLBY ini dijamin awet.<br/>Kode : RMB 013<br/>Warna : ABU KOMBINASI<br/>Bahan : DOLBY<br/>Ukuran : 32X17X48CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RDN 034 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RDN 034<br/>Warna : BIRU NAVY<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 28 X 16 X 43<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1573,8 +1823,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 013 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran 32X17X48CM, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/530-rmb-013.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 013,Rp 131.400,RMB 013,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 029 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rsr-029,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna BIRU NAVY",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/443-rdn-034.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-034-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-034-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-034-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-034-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RDN 034,Rp 99.400,Rp 116.900,Rp 17.500,RDN 034,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RVN 605 Murah,tas-backpack-ransel-kasual-pria-rvn-605,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1599,6 +1849,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 029 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1621,8 +1872,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 029 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 029 dengan bahan DINIER ini dijamin awet.<br/>Kode : RSR 029<br/>Warna : ABU ABU<br/>Bahan : DINIER<br/>Ukuran : 29X15X46CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RVN 605 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RVN 605<br/>Warna : BIRU KOMBINASI<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 14 X 48, + RAIN COVER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1636,8 +1896,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 029 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 29X15X46CM, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/531-rsr-029.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 029,Rp 137.900,RSR 029,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 009 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rmb-009,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna BIRU KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/444-rvn-605.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rvn-605-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rvn-605-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rvn-605-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rvn-605-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RVN 605,Rp 135.400,Rp 158.900,Rp 23.500,RVN 605,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RSR 006 Murah,tas-backpack-ransel-kasual-pria-rsr-006,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1662,6 +1922,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 009 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1684,8 +1945,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 009 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 009 dengan bahan DINIER ini dijamin awet.<br/>Kode : RMB 009<br/>Warna : COKLAT KOMBINASI<br/>Bahan : DINIER<br/>Ukuran : 34X15X46CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RSR 006 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RSR 006<br/>Warna : MERAH<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 28 X 12 X 44<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1699,8 +1969,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 009 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 34X15X46CM, Warna COKLAT KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/532-rmb-009.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 009,Rp 137.900,RMB 009,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 001 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rmb-001,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/445-rsr-006.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsr-006-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsr-006-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsr-006-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsr-006-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RSR 006,Rp 120.900,Rp 141.900,Rp 21.000,RSR 006,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RSY 088 Murah,tas-backpack-ransel-kasual-pria-rsy-088,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1725,6 +1995,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 001 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1747,8 +2018,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 001 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 001 dengan bahan DINIER ini dijamin awet.<br/>Kode : RMB 001<br/>Warna : ABU ABU<br/>Bahan : DINIER<br/>Ukuran : 34X15X46CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RSY 088 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan CORDURA.<br/>Kode : RSY 088<br/>Warna : MERAH<br/>Bahan : CORDURA<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 30 X 12 X 46<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1762,8 +2042,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 001 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 34X15X46CM, Warna ABU ABU",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/533-rmb-001.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 001,Rp 130.400,RMB 001,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 032 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rsr-032,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CORDURA, Ukuran AS, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/446-rsy-088.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsy-088-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsy-088-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsy-088-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rsy-088-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RSY 088,Rp 113.900,Rp 133.900,Rp 20.000,RSY 088,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMN 003 Murah,tas-backpack-ransel-kasual-pria-rmn-003,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1788,6 +2068,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 032 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1810,8 +2091,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 032 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 032 dengan bahan DINIER ini dijamin awet.<br/>Kode : RSR 032<br/>Warna : MERAH<br/>Bahan : DINIER<br/>Ukuran : 28X12X38CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMN 003 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan CANVAS.<br/>Kode : RMN 003<br/>Warna : HITAM<br/>Bahan : CANVAS<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 37 X 14 X 45<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1825,8 +2115,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 032 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 28X12X38CM, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/534-rsr-032.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 032,Rp 131.900,RSR 032,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 011 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rmb-011,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CANVAS, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/447-rmn-003.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmn-003-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmn-003-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmn-003-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmn-003-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMN 003,Rp 123.900,Rp 144.900,Rp 21.000,RMN 003,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RDN 038 Murah,tas-backpack-ransel-kasual-pria-rdn-038,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1851,6 +2141,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 011 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1873,8 +2164,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 011 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 011 dengan bahan CANVAS ini dijamin awet.<br/>Kode : RMB 011<br/>Warna : MERAH<br/>Bahan : CANVAS<br/>Ukuran : 30X15X45CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RDN 038 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RDN 038<br/>Warna : HIJAU<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 28 X 12 X 36<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1888,8 +2188,8 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 011 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan CANVAS, Ukuran 30X15X45CM, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/535-rmb-011.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RMB 011,Rp 142.900,RMB 011,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 006 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rsr-006,"
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna HIJAU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/448-rdn-038.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-038-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-038-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-038-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rdn-038-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RDN 038,Rp 99.400,Rp 116.900,Rp 17.500,RDN 038,Baru
+Jual Tas Backpack / Ransel Kasual Pria - RMU 003 Murah,tas-backpack-ransel-kasual-pria-rmu-003,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1914,6 +2214,7 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 006 Murah,tas-ransel-
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -1936,8 +2237,17 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 006 Murah,tas-ransel-
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 006 dengan bahan DINIER ini dijamin awet.<br/>Kode : RSR 006<br/>Warna : MERAH<br/>Bahan : DINIER<br/>Ukuran : 28X12X44CM<br/>Berat : 0.75 kg<br>
+         <p>Tas Backpack / Ransel Kasual Pria - RMU 003 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel Unisex ini terbuat dari bahan DINIR.<br/>Kode : RMU 003<br/>Warna : BIRU<br/>Bahan : DINIR<br/>Ukuran : AS<br/>Berat : 0.65 kg<br/>Info Lainnya = 31 X 12 X 41<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
@@ -1951,193 +2261,4 @@ Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 006 Murah,tas-ransel-
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 28X12X44CM, Warna MERAH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/536-rsr-006.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 006,Rp 120.900,RSR 006,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 603 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rvn-603,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 603 dengan bahan DINIER ini dijamin awet.<br/>Kode : RVN 603<br/>Warna : HITAM<br/>Bahan : DINIER<br/>Ukuran : 30X16X42CM<br/>Berat : 0.75 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 30X16X42CM, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/537-rvn-603.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 603,Rp 115.900,RVN 603,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 033 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rsr-033,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 033 dengan bahan DOLBY ini dijamin awet.<br/>Kode : RSR 033<br/>Warna : HITAM<br/>Bahan : DOLBY<br/>Ukuran : 34X14X40CM<br/>Berat : 0.75 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DOLBY, Ukuran 34X14X40CM, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/538-rsr-033.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RSR 033,Rp 137.900,RSR 033,Baru
-Jual Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 616 Murah,tas-ransel-backpack-casual-unisex-pria-wanita-rvn-616,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Tas Ransel Unisex merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 616 dengan bahan DINIER ini dijamin awet.<br/>Kode : RVN 616<br/>Warna : HITAM<br/>Bahan : DINIER<br/>Ukuran : 27X12X42CM<br/>Berat : 0.75 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-25,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIER, Ukuran 27X12X42CM, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/539-rvn-616.jpg,Tas Ransel / Backpack Casual Unisex Pria Wanita - RVN 616,Rp 83.400,RVN 616,Baru
+     </div><!--/category-tab-->",2017-10-17,html,tas-ransel-unisex,raindoz,tas-ransel-unisex,raindoz,"Tas Ransel Unisex Bahan DINIR, Ukuran AS, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/449-rmu-003.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmu-003-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmu-003-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmu-003-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rmu-003-d.jpg,/,Tas Backpack / Ransel Kasual Pria - RMU 003,Rp 113.900,Rp 133.900,Rp 20.000,RMU 003,Baru
